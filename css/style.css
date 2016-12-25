@@ -122,7 +122,6 @@ a.navbar-brand span {
 .navbar-default .navbar-nav > li > a{
   color: #fff;
   font-size: 16px;
- 
 }
 .navbar-nav > li > a {
   padding-top: 0px;
@@ -902,7 +901,7 @@ border:1px solid #ddd;
 
 /*--//check-box--*/
 .footer {
-  background: #000;
+  background: #222222;
   padding: 2em 0;
 
 }
