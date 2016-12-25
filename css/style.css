@@ -85,7 +85,7 @@ min-height: 853px;
 }
 
 .navbar-default {
-  background:none;
+  background:transparent;
   border-color: #012231;
 }
 .navbar-default .navbar-brand {
